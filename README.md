@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a musician and teacher turned coder. I love learning. 
+#### I'm a musician and teacher turned coder. I love learning. 
 
 - 🔭 I’m currently working on building a tool that I wish I had as a music teacher. Harmony Helper is an app for high school and college music theory students to check their counterpoint composition assignments without needing an instructor to manually review their work.
 
