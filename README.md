@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Chris 👋
 
 #### I'm a musician and teacher turned coder. I love learning. 
 
-- 🔭 I’m currently working on building a tool that I wish I had as a music teacher. Harmony Helper is an app for high school and college music theory students to check their counterpoint composition assignments without needing an instructor to manually review their work.
+I’m currently working on building a tool that I wish I had as a music teacher. [Harmony Helper](https://github.com/chrisfrick/counterpoint-analysis-playground) is an app for high school and college music theory students to check for errors in their counterpoint composition assignments without needing an instructor to manually review their work.
 
 <!--
 **chrisfrick/chrisfrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
