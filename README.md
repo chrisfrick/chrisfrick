@@ -1,4 +1,4 @@
-## Hi there, I'm Chris 👋
+## Hi there, I'm [Chris](https://chrisfrick.github.io/portfolio/) 👋
 
 #### I'm a musician and teacher turned coder. I love learning. 
 
