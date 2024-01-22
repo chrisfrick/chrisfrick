@@ -1,10 +1,10 @@
 ## Hi there, I'm [Chris](https://chrisfrick.github.io/portfolio/) 👋
 
-#### I'm a musician and teacher turned developer. I love learning. 
-
-I’m currently working on building a tool that I wish I had as a music teacher. [Harmony Helper](https://github.com/chrisfrick/counterpoint-analysis-playground) is an app for high school and college music theory students to check for errors in their counterpoint composition assignments without needing an instructor to manually review their work.
+#### I'm a musician and teacher turned developer.
 
 I'm a graduate of the FastTrack Java Developer program and completed the University of Helsinki’s Full Stack Open web development curriculum.
+
+I’m currently working on building a tool that I wish I had as a music teacher. [Harmony Helper](https://github.com/chrisfrick/counterpoint-analysis-playground) is an app for high school and college music theory students to check for errors in their counterpoint composition assignments without needing an instructor to manually review their work.
 
 ### Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
